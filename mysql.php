@@ -7,6 +7,7 @@ if (!$con){
 	
 } else {
 	echo " mysql";
+	echo "my name is lily";
 }
 
 ?>
