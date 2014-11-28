@@ -6,7 +6,7 @@ if (!$con){
 	die('could not connet :'.mysql_error());
 	
 } else {
-	echo " mysql";
+	echo " mysql is  ready";
 }
 
 ?>
